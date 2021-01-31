@@ -28,10 +28,11 @@ echo nul <tenfile>
 6. make directory
 ```
 md
+or mkdir
 ```
 7. remove directory
 ```
-rd
+rd /s name
 ```
 8. delete file
 ```

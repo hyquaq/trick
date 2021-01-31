@@ -37,6 +37,7 @@ rd /s name
 8. delete file
 ```
 del
+- del *.duoi # xoa all file co duoi
 ```
 9. move file
 ```
